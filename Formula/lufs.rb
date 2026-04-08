@@ -1,8 +1,8 @@
 class Lufs < Formula
   desc "LUFS analysis and track comparison for .wav files"
   homepage "https://github.com/mstcgalis/lufs"
-  url "https://github.com/mstcgalis/lufs/archive/refs/tags/v1.1.4.tar.gz"
-  sha256 "c15f176b574fd13431ce55eb8008d6b4469481a66fe44ab9a1678ee48949f2a6"
+  url "https://github.com/mstcgalis/lufs/archive/refs/tags/v1.2.0.tar.gz"
+  sha256 "19f98503760a3b4d1a8497bf7e47b00fdcda1cb839cae5666983b723edf8854d"
   license "MIT"
 
   depends_on "ffmpeg"
