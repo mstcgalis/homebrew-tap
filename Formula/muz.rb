@@ -1,8 +1,8 @@
 class Muz < Formula
   desc "Musical timing and frequency calculator"
   homepage "https://github.com/mstcgalis/muz"
-  url "https://github.com/mstcgalis/muz/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "06df1decb3c09ee6d93eab09a8ef9eb237fac2b1f06baee8b1997faa69088674"
+  url "https://github.com/mstcgalis/muz/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "399ffc1c4d61bca29de84886e4a0f9e8bbc9dd176b131917320a6a9b3ee53ec6"
   license "MIT"
 
   def install
