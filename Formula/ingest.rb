@@ -1,8 +1,8 @@
 class Ingest < Formula
   desc "CLI photo ingest from SD card / camera — EXIF-based folder organisation with Immich support"
   homepage "https://github.com/mstcgalis/ingest"
-  url "https://github.com/mstcgalis/ingest/archive/refs/tags/v1.0.3.tar.gz"
-  sha256 "786af0548e5c04b264b33b772f462e693bc394152a3d1e02e0eb2dfb828b1f19"
+  url "https://github.com/mstcgalis/ingest/archive/refs/tags/v1.0.4.tar.gz"
+  sha256 "80f3cea7f2e92cf247d8c742898db494ff4bdee6f2c218c76ec03450303c1f26"
   license "MIT"
   head "https://github.com/mstcgalis/ingest.git", branch: "main"
 
