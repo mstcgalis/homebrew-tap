@@ -3,7 +3,7 @@ class Lufs < Formula
   homepage "https://github.com/mstcgalis/lufs"
   url "https://github.com/mstcgalis/lufs/archive/refs/tags/v1.2.9.tar.gz"
   sha256 "472efcfc5f9ce9b7e584e4c190c4f0963e0030e347e207661b85cf2e25b3634e"
-  license "MIT"
+  license "AGPL-3.0-only"
 
   depends_on "ffmpeg"
 
